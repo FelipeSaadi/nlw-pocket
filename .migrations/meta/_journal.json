@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1726090367471,
+      "tag": "20240911213247_flat_dreadnoughts",
+      "breakpoints": true
+    }
+  ]
+}
